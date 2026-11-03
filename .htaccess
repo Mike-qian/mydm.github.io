@@ -1,0 +1,5 @@
+ErrorDocument 400 http://mydownload.cf/404/index.html
+ErrorDocument 401 http://mydownload.cf/404/index.html
+ErrorDocument 403 http://mydownload.cf/404/index.html
+ErrorDocument 404 http://mydownload.cf/404/index.html
+ErrorDocument 503 http://mydownload.cf/404/index.html
